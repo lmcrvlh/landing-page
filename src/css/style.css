@@ -130,7 +130,7 @@ body {
 }
 
 .home-btn:hover {
-    background: #fc4c35;
+    background: var(--red);
 }
 
 .home-img img {
